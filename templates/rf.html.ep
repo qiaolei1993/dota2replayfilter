@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <h1>Hero:<%= $hero %></h1>
+    <h1>Region:<%= $region %></h1>
+    <h1>Lobby:<%= $lobby %></h1>
+    <h1>GameMode:<%= $game_mode %></h1>
+    <h1>Result:<%= $result %></h1>
+    <h1>Duration:<%= $duration %></h1>
+</html>
