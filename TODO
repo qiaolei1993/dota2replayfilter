@@ -1,0 +1,3 @@
+script/filter :
+    accept: JSON arguments
+    return: ID Lines
