@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+import apiadapter as API
+
+print API.GetMatchDetails(API.KEY, match_id="715329072")

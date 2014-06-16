@@ -4,6 +4,8 @@
 import urllib2
 import urllib
 
+KEY='3103AA4F6DED20345780558E594BAC3D'
+
 def fetch(url, args):
 	url = url + '?' + urllib.urlencode(args)
 	request = urllib2.Request(url)
